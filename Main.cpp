@@ -5,7 +5,7 @@
 #include<stdlib.h>
 #include<math.h>
 #define PI 3.14
-
+//Start
 GLfloat position = 0.0;
 GLfloat position2 = 0.0;
 GLfloat position3 = 0.0;
