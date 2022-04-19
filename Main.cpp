@@ -1688,6 +1688,731 @@ for(int i=0; i<360; i++)
     glVertex2f(1515+5*cos(theta),690+5*sin(theta));
 }
 glEnd();
+///School_Stairs
+glBegin(GL_QUADS);
+glColor3ub (64, 64, 64);
+glVertex2i(1450, 445);
+glVertex2i(1545, 445);
+glVertex2i(1545, 450);
+glVertex2i(1450, 450);
+glEnd();
+
+///School_Stairs2
+glBegin(GL_QUADS);
+glColor3ub (38, 38, 38);
+glVertex2i(1445, 440);
+glVertex2i(1550, 440);
+glVertex2i(1550, 445);
+glVertex2i(1445, 445);
+glEnd();
+
+///School_Stairs3
+glBegin(GL_QUADS);
+glColor3ub (64, 64, 64);
+glVertex2i(1440, 435);
+glVertex2i(1555, 435);
+glVertex2i(1555, 440);
+glVertex2i(1440, 440);
+glEnd();
+
+
+///tree3
+glBegin(GL_QUADS);
+glColor3ub (77, 40, 0); ///wood
+glVertex2i(1745, 400);
+glVertex2i(1755, 400);
+glVertex2i(1755, 430);
+glVertex2i(1745, 430);
+glEnd();
+
+glBegin(GL_TRIANGLES);
+glColor3ub (0,77,0); ///leaf
+glVertex2i(1715, 430);
+glVertex2i(1785, 430);
+glVertex2i(1750, 480);
+
+glEnd();
+
+///Road Mark1
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(100, 290);
+glVertex2i(200, 290);
+glVertex2i(200, 310);
+glVertex2i(100, 310);
+glEnd();
+
+
+///Zebra Cross1
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 355);
+glVertex2i(270, 355);
+glVertex2i(270, 360);
+glVertex2i(230, 360);
+glEnd();
+
+///Zebra Cross2
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 345);
+glVertex2i(270, 345);
+glVertex2i(270, 350);
+glVertex2i(230, 350);
+glEnd();
+
+///Zebra Cross3
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 335);
+glVertex2i(270, 335);
+glVertex2i(270, 340);
+glVertex2i(230, 340);
+glEnd();
+
+///Zebra Cross4
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 325);
+glVertex2i(270, 325);
+glVertex2i(270, 330);
+glVertex2i(230, 330);
+glEnd();
+
+///Zebra Cross5
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 315);
+glVertex2i(270, 315);
+glVertex2i(270, 320);
+glVertex2i(230, 320);
+glEnd();
+
+///Zebra Cross6
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 305);
+glVertex2i(270, 305);
+glVertex2i(270, 310);
+glVertex2i(230, 310);
+glEnd();
+
+///Zebra Cross7
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 295);
+glVertex2i(270, 295);
+glVertex2i(270, 300);
+glVertex2i(230, 300);
+glEnd();
+
+
+///Zebra Cross8
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 285);
+glVertex2i(270, 285);
+glVertex2i(270, 290);
+glVertex2i(230, 290);
+glEnd();
+
+///Zebra Cross9
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 275);
+glVertex2i(270, 275);
+glVertex2i(270, 280);
+glVertex2i(230, 280);
+glEnd();
+
+
+///Zebra Cross10
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 265);
+glVertex2i(270, 265);
+glVertex2i(270, 270);
+glVertex2i(230, 270);
+glEnd();
+
+///Zebra Cross11
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 255);
+glVertex2i(270, 255);
+glVertex2i(270, 260);
+glVertex2i(230, 260);
+glEnd();
+
+///Zebra Cross12
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 245);
+glVertex2i(270, 245);
+glVertex2i(270, 250);
+glVertex2i(230, 250);
+glEnd();
+
+///Zebra Cross13
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(230, 235);
+glVertex2i(270, 235);
+glVertex2i(270, 240);
+glVertex2i(230, 240);
+glEnd();
+
+
+///Road Mark2
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(300, 290);
+glVertex2i(400, 290);
+glVertex2i(400, 310);
+glVertex2i(300, 310);
+glEnd();
+
+
+///Road Mark3
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(500, 290);
+glVertex2i(600, 290);
+glVertex2i(600, 310);
+glVertex2i(500, 310);
+glEnd();
+
+///Road Mark4
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(700, 290);
+glVertex2i(800, 290);
+glVertex2i(800, 310);
+glVertex2i(700, 310);
+glEnd();
+
+
+///Zebra Cross1
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 355);
+glVertex2i(870, 355);
+glVertex2i(870, 360);
+glVertex2i(830, 360);
+glEnd();
+
+///Zebra Cross2
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 345);
+glVertex2i(870, 345);
+glVertex2i(870, 350);
+glVertex2i(830, 350);
+glEnd();
+
+///Zebra Cross3
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 335);
+glVertex2i(870, 335);
+glVertex2i(870, 340);
+glVertex2i(830, 340);
+glEnd();
+
+///Zebra Cross4
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 325);
+glVertex2i(870, 325);
+glVertex2i(870, 330);
+glVertex2i(830, 330);
+glEnd();
+
+///Zebra Cross5
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 315);
+glVertex2i(870, 315);
+glVertex2i(870, 320);
+glVertex2i(830, 320);
+glEnd();
+
+///Zebra Cross6
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 305);
+glVertex2i(870, 305);
+glVertex2i(870, 310);
+glVertex2i(830, 310);
+glEnd();
+
+///Zebra Cross7
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 295);
+glVertex2i(870, 295);
+glVertex2i(870, 300);
+glVertex2i(830, 300);
+glEnd();
+
+
+///Zebra Cross8
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 285);
+glVertex2i(870, 285);
+glVertex2i(870, 290);
+glVertex2i(830, 290);
+glEnd();
+
+///Zebra Cross9
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 275);
+glVertex2i(870, 275);
+glVertex2i(870, 280);
+glVertex2i(830, 280);
+glEnd();
+
+
+///Zebra Cross10
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 265);
+glVertex2i(870, 265);
+glVertex2i(870, 270);
+glVertex2i(830, 270);
+glEnd();
+
+///Zebra Cross11
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 255);
+glVertex2i(870, 255);
+glVertex2i(870, 260);
+glVertex2i(830, 260);
+glEnd();
+
+///Zebra Cross12
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 245);
+glVertex2i(870, 245);
+glVertex2i(870, 250);
+glVertex2i(830, 250);
+glEnd();
+
+///Zebra Cross13
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(830, 235);
+glVertex2i(870, 235);
+glVertex2i(870, 240);
+glVertex2i(830, 240);
+glEnd();
+
+
+///Road Mark5
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(900, 290);
+glVertex2i(1000, 290);
+glVertex2i(1000, 310);
+glVertex2i(900, 310);
+glEnd();
+
+///Road Mark6
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1100, 290);
+glVertex2i(1200, 290);
+glVertex2i(1200, 310);
+glVertex2i(1100, 310);
+glEnd();
+
+
+///Road Mark7
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1300, 290);
+glVertex2i(1400, 290);
+glVertex2i(1400, 310);
+glVertex2i(1300, 310);
+glEnd();
+
+
+///Road Mark8
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1500, 290);
+glVertex2i(1600, 290);
+glVertex2i(1600, 310);
+glVertex2i(1500, 310);
+glEnd();
+
+///Zebra Cross1
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 355);
+glVertex2i(1670, 355);
+glVertex2i(1670, 360);
+glVertex2i(1630, 360);
+glEnd();
+
+///Zebra Cross2
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 345);
+glVertex2i(1670, 345);
+glVertex2i(1670, 350);
+glVertex2i(1630, 350);
+glEnd();
+
+///Zebra Cross3
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 335);
+glVertex2i(1670, 335);
+glVertex2i(1670, 340);
+glVertex2i(1630, 340);
+glEnd();
+
+///Zebra Cross4
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 325);
+glVertex2i(1670, 325);
+glVertex2i(1670, 330);
+glVertex2i(1630, 330);
+glEnd();
+
+///Zebra Cross5
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 315);
+glVertex2i(1670, 315);
+glVertex2i(1670, 320);
+glVertex2i(1630, 320);
+glEnd();
+
+///Zebra Cross6
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 305);
+glVertex2i(1670, 305);
+glVertex2i(1670, 310);
+glVertex2i(1630, 310);
+glEnd();
+
+///Zebra Cross7
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 295);
+glVertex2i(1670, 295);
+glVertex2i(1670, 300);
+glVertex2i(1630, 300);
+glEnd();
+
+
+///Zebra Cross8
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 285);
+glVertex2i(1670, 285);
+glVertex2i(1670, 290);
+glVertex2i(1630, 290);
+glEnd();
+
+///Zebra Cross9
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 275);
+glVertex2i(1670, 275);
+glVertex2i(1670, 280);
+glVertex2i(1630, 280);
+glEnd();
+
+
+///Zebra Cross10
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 265);
+glVertex2i(1670, 265);
+glVertex2i(1670, 270);
+glVertex2i(1630, 270);
+glEnd();
+
+///Zebra Cross11
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 255);
+glVertex2i(1670, 255);
+glVertex2i(1670, 260);
+glVertex2i(1630, 260);
+glEnd();
+
+///Zebra Cross12
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 245);
+glVertex2i(1670, 245);
+glVertex2i(1670, 250);
+glVertex2i(1630, 250);
+glEnd();
+
+///Zebra Cross13
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1630, 235);
+glVertex2i(1670, 235);
+glVertex2i(1670, 240);
+glVertex2i(1630, 240);
+glEnd();
+
+
+
+///Road Mark9
+glBegin(GL_QUADS);
+glColor3ub (255, 255, 255); ///White
+glVertex2i(1700, 290);
+glVertex2i(1800, 290);
+glVertex2i(1800, 310);
+glVertex2i(1700, 310);
+glEnd();
+
+
+
+///Sun
+float theta;
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 0);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(500+45*cos(theta),800+40*sin(theta));
+}
+glEnd();
+
+
+///cloud1
+glPushMatrix();
+glTranslatef(position2,0.0f, 0.0f);
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(150+50*cos(theta),800+45*sin(theta));
+
+}
+glEnd();
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(100+40*cos(theta),790+35*sin(theta));
+}
+glEnd();
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(200+40*cos(theta),790+35*sin(theta));
+}
+glEnd();
+glPopMatrix();
+
+///cloud2
+glPushMatrix();
+glTranslatef(position2,0.0f, 0.0f);
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(550+70*cos(theta),800+35*sin(theta));
+
+}
+glEnd();
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(450+60*cos(theta),790+25*sin(theta));
+}
+glEnd();
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(400+60*cos(theta),790+20*sin(theta));
+}
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(450+60*cos(theta),800+25*sin(theta));
+}
+glEnd();
+glPopMatrix();
+
+
+///cloud3
+glPushMatrix();
+glTranslatef(position,0.0f, 0.0f);
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(850+40*cos(theta),790+35*sin(theta));
+}
+glEnd();
+
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(950+40*cos(theta),790+35*sin(theta));
+}
+glEnd();
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(900+50*cos(theta),800+45*sin(theta));
+}
+glEnd();
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(810+25*cos(theta),780+20*sin(theta));
+}
+glEnd();
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(990+25*cos(theta),780+20*sin(theta));
+}
+glEnd();
+glPopMatrix();
+
+///cloud4
+glPushMatrix();
+glTranslatef(position,0.0f, 0.0f);
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(1350+40*cos(theta),790+35*sin(theta));
+}
+glEnd();
+
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(1450+40*cos(theta),790+35*sin(theta));
+}
+glEnd();
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(1400+50*cos(theta),800+45*sin(theta));
+}
+glEnd();
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(1310+25*cos(theta),780+20*sin(theta));
+}
+glEnd();
+
+
+glBegin(GL_POLYGON);
+glColor3ub(255, 255, 255);
+for(int i=0; i<360; i++)
+{
+    theta = i*PI/180;
+    glVertex2f(1490+25*cos(theta),780+20*sin(theta));
+}
+glEnd();
+glPopMatrix();
+
+
+///rail line
+glColor3ub(150, 150, 144);
+	glBegin(GL_QUADS);
+    glVertex2i(0,180);
+    glVertex2i(0,205);
+    glVertex2i(1800,205);
+    glVertex2i(1800,180);
+    glEnd();
+
+    glColor3ub(0, 0, 0);
+    glBegin(GL_QUADS);
+    glVertex2i(0,202);
+    glVertex2i(1800,202);
+    glVertex2i(1800,205);
+    glVertex2i(0,205);
+
+    glEnd();
+
+    glColor3ub(0, 0, 0);
+    glBegin(GL_QUADS);
+    glVertex2i(0,180);
+    glVertex2i(1800,180);
+    glVertex2i(1800,184);
+    glVertex2i(0,184);
+    glEnd();
+
+    glColor3ub(0, 0, 0);
+    glBegin(GL_LINES);
+    float j;
+    for(j=0;j<=1800;j+=20) //rail line
+   {
+        glVertex2i(10+j,180);
+        glVertex2i(15+j,205);
+
+    }
+    glEnd();
+ambulance1();
+ambulance2();
+schoolBus();
+Cars();
+
+
 
 
 
